@@ -7,7 +7,6 @@ function App() {
     return (
         <div className="App">
             <div className="app_header">{/* <Header></Header> */}</div>
-
             <Header></Header>
             <div className="app_body">
                 <div className="app_container">

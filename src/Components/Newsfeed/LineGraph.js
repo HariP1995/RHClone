@@ -36,7 +36,6 @@ function LineGraph() {
             )
             data.push({ x: date, y: value })
         }
-        console.log(data)
         setGraphData(data)
     }, [])
 
